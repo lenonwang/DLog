@@ -7,6 +7,3 @@
 #else
 #define DLog(...)
 #endif
-
-
-#endif
